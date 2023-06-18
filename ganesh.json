@@ -2,6 +2,8 @@
     "Name":"ganesh",
     "Employeer":"Bermtec",
     "Experience": 9,
+    "Tech stack":["React","Next js","Azure","redux"],
+  
     "Tech stack":["Devops","AWS","Azure"],
     
     "Name":"gani",
